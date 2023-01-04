@@ -403,7 +403,7 @@ def onmessage(update,bot:ObigramClient):
   
 
 def main():
-    bot_token = '5947045568:AAE0mfkt85dPRAYIKGBEFdHd4qG4U3Y4bAA'
+    bot_token = '5947045568:AAE0mfkt85dPRAYIKGBEFdHd4qG4U3Y4bAA
     
 
     bot = ObigramClient(bot_token)
