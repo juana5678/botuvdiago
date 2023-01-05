@@ -68,7 +68,7 @@ class MoodleClient2:
         self.UserName: str = UserName
         self.Password: str = Password
         self.RepoID: str = RepoID
-        self.MaxTasks: int = 4
+        self.MaxTasks: int = 3
         self.TasksInProgress: int = 0
         self.store = {}
         self.status = None
